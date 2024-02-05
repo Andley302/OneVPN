@@ -1,4 +1,4 @@
-# VPN App
+# One VPN
 
 Este é um aplicativo desenvolvido em React Native, contendo códigos Java, incluindo a implementação do OpenVPN.
 
@@ -28,7 +28,5 @@ A próxima tela apresenta configurações diversas, como DNS, idiomas, entre out
 Este é um aplicativo de código fechado. Para suporte ou questões relacionadas ao uso, entre em contato conosco através do e-mail de suporte.
 
 ---
-
-**Observação:** Este README é uma orientação geral e você pode personalizá-lo conforme necessário para fornecer informações mais específicas sobre o seu aplicativo. Certifique-se de adaptar os detalhes de contato e outras informações conforme apropriado.
 
 [**Baixe o App Aqui**](https://play.google.com/store/apps/details?id=com.one.vpnapp)
