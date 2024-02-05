@@ -17,7 +17,7 @@ Ao pressionar o botão "Iniciar", a conexão é estabelecida, redirecionando par
 
 ### Tela VIP
 
-Na tela VIP, o usuário encontra informações sobre o ID do dispositivo. O acesso VIP é concedido por meio do ID do dispositivo, e para adquiri-lo, o usuário é redirecionado para [Nosso site]https://onevpn.onehostapps.com/). Após o download, o acesso VIP é liberado, e um comprovante é enviado por e-mail.
+Na tela VIP, o usuário encontra informações sobre o ID do dispositivo. O acesso VIP é concedido por meio do ID do dispositivo, e para adquiri-lo, o usuário é redirecionado para [Nosso site de pagamentos]https://sejavip.onehostapps.com/). Após o pagamento, o acesso VIP é liberado, e um comprovante é enviado por e-mail.
 
 ### Configurações
 
